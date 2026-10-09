@@ -11,4 +11,5 @@ This repository holds two things for the Drop Cowboy organization on GitHub:
   its own.
 
 Looking for the API? Start at the
-[developer hub](https://www.dropcowboy.com/developers).
+[developer hub](https://www.dropcowboy.com/developers), or clone the code and
+examples from [Drop-Cowboy/dropcowboy](https://github.com/Drop-Cowboy/dropcowboy).
