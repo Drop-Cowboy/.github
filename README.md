@@ -1,33 +1,15 @@
-# Drop Cowboy
+# Drop-Cowboy/.github
 
-Welcome to the official GitHub for **Drop Cowboy** — a leading platform for
-[ringless voicemail](https://www.dropcowboy.com?utm_source=github) and [bulk text messaging](https://www.dropcowboy.com?utm_source=github).  
-We provide simple, reliable, and scalable tools to help businesses and organizations
-connect with their audience.
+This repository holds two things for the Drop Cowboy organization on GitHub:
 
-## About Drop Cowboy
-Drop Cowboy helps businesses reach customers more effectively with:
-- **Ringless Voicemail** – deliver messages directly to voicemail without disturbing calls.
-- **Bulk SMS Messaging** – send text campaigns quickly and at scale.
-- **APIs & Integrations** – flexible endpoints for developers to connect Drop Cowboy with
-  CRMs, marketing tools, and custom workflows.
+- [`profile/README.md`](profile/README.md), the page shown at
+  [github.com/Drop-Cowboy](https://github.com/Drop-Cowboy).
+- Default community files: [`SECURITY.md`](SECURITY.md),
+  [`CONTRIBUTING.md`](CONTRIBUTING.md), [`SUPPORT.md`](SUPPORT.md) and the
+  issue templates in [`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE).
+  GitHub shows them on every public Drop Cowboy repository that doesn't have
+  its own.
 
-## Get Started
-- Visit our website: [dropcowboy.com](https://www.dropcowboy.com?utm_source=github)
-- Explore our [API Documentation](https://www.dropcowboy.com/api?utm_source=github)
-- Contact us at [support@dropcowboy.com](mailto:info@dropcowboy.com)
-- Test out API calls or fork our routes in [Postman](https://documenter.getpostman.com/view/39210482/2sB3QFSD9C)
-
-## Why Drop Cowboy?
-- Scalable cloud infrastructure
-- High deliverability rates
-- Easy-to-use APIs for developers
-- Trusted by businesses across industries
-
-## Contributing
-This repository hosts public documentation and resources.  
-Feature requests, bug reports, or contributions can be submitted via GitHub issues.
-
----
-
-© Drop Cowboy. All rights reserved.
+Looking for the API? Start at the
+[developer hub](https://www.dropcowboy.com/developers), or clone the code and
+examples from [Drop-Cowboy/dropcowboy](https://github.com/Drop-Cowboy/dropcowboy).
