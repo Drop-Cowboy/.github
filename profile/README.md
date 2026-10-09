@@ -48,7 +48,7 @@ Every piece is one API with one key.
 - [OpenAPI spec](https://api-v2.dropcowboy.com/openapi.yaml), to generate a client in any language
 - [Run in Postman](https://god.gw.postman.com/run-collection/5049225-40ae327c-2fd5-475d-a52c-fa9142609784?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D5049225-40ae327c-2fd5-475d-a52c-fa9142609784%26entityType%3Dcollection%26workspaceId%3D256b3e95-7b67-4783-9632-d59ca0a02803), or [read the collection on the web](https://documenter.getpostman.com/view/5049225/2sBYHPz21C)
 - Build with an AI assistant: connect Cursor, Claude or VS Code to `https://mcp.dropcowboy.com/mcp` from **Connect AI** in the dashboard
-- No code? [Automation](https://www.dropcowboy.com/automation) is built into every Drop Cowboy account. It connects Drop Cowboy to 700+ other apps, like HubSpot, Salesforce, Shopify, Calendly and Google Sheets. Open [**Automation Hub**](https://www.dropcowboy.com/app/#/automation) in the dashboard to build a workflow
+- No code? [Automation](https://www.dropcowboy.com/automation) is built into every Drop Cowboy account. It connects Drop Cowboy to 700+ other apps, like HubSpot, Salesforce, Shopify, Calendly and Google Sheets. Open [**Automation**](https://www.dropcowboy.com/app/#/automation) in the dashboard's left menu to build a workflow
 
 ### Using the old v1 API?
 
